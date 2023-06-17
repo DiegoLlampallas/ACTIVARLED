@@ -228,12 +228,17 @@ Cuando haya funcionado, verás los valores dentro del monitor serial en "wokwi" 
 
 1. Funcionamiento tanto en "wokwi" como en la página web creada:
 
+LED APAGADO:
+
 ![](https://github.com/DiegoLlampallas/ACTIVARLED/blob/main/41.png?raw=true)
+
+LED ENCENDIDO:
+
 ![](https://github.com/DiegoLlampallas/ACTIVARLED/blob/main/42.png?raw=true)
 
 ## Evidencias
 
-[Página](https://wokwi.com/projects/367802604636969985)
+[Página](https://wokwi.com/projects/367802604636969985) 
 
 
 # Créditos
